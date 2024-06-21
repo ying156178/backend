@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Oanh",
+      "email": "oanh@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Tu",
+      "email": "tu@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Nguyen",
+      "email": "nguyen@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Nhi",
+      "email": "nhi@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Trang",
+      "email": "trang@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Trang24",
+      "email": "trang32@gmail.com"
+    }
+  ]
+}
